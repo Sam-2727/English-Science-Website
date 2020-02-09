@@ -1,7 +1,7 @@
 header:
-  - title:      About
-    url:        /docs/
+  - title:      Take Action
+    url:        /takeaction/
   - title:      Learn More
     url:        /learnmore/
-  - title:      Posts
+  - title:      Announcements
     url:        /archive.html
