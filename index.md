@@ -12,7 +12,7 @@ article_header:
     src: /assets/349096.jpg
 ---
 # Who we are
-We are a group of motivated students concerned about the current state of science funding. Particularly, those endeavours that aim to resolve the fundamental questions that humanity has held since humanity has been intelligent. It is our species' consideration of these questions that sets us apart from other organisms, makes us intelligent beings.
+We are a group of motivated students concerned about the current state of science funding. Particularly, those endeavours that aim to resolve the fundamental questions that humanity has held since we have been intelligent. It is our species' consideration of these questions that sets us apart from other organisms and makes us intelligent beings.
 ## The current state of science
 We recognize that there are many competing theories out there attempting to advance our level of fundmamental theories. Whether it be WIMPs, string theory, quantum gravity (and its many formulations), or one of the many other theories out there, there needs to be more empirical evidence. Theories are being produced easily: that is not the problem. But we, citizens of The United States and on a broader scale, citizens of the world, don't have the resources to produce empirical evidence. Those that do, billionaires, see space as a commerical opportunity. Companies like Space-X and Blue Origin, while promoting public enthusiasm about space, don't dedicate resources to scientific understanding.
 
