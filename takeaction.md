@@ -6,7 +6,8 @@ title: Take Action Now!
 ## Here's how:
 1. Draft a letter to your senator/representative
 2. Show up at town halls. Bring Signs!
-3. Call their office
+3. Call your senator/represenative's office
+4. Participate actively in the election process. Show up at candidate debates, ask questions of candidates, make sure supporting science is a priority high on their radar.
 
 # How to draft a letter
 Here are some things you should include in any letter you send.
