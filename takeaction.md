@@ -18,4 +18,4 @@ Here are some things you should include in any letter you send.
 # Contact us.
 We are a national network of high school students. Contact us and we will send you further resources, give you a custom email address from our domain, and plug you into our national network of activists.
 
-Contact us at [contact@scienceisthefuture.org]
+Contact us at [contact@scienceisthefuture.org](contact@scienceisthefuture.org)
