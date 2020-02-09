@@ -16,13 +16,13 @@
 
 ## => Site Settings
 ##############################
-text_skin: forest # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
+text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Stochastic Thoughts
+title   : Science is the Future
 description: > # this means to ignore newlines until "Language & timezone"
-  Another Website. Move along.
+  Learn more about what you can do to support the future of science.
 
 
 ## => Language and Timezone
