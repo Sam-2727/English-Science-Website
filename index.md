@@ -9,7 +9,7 @@ article_header:
   theme: dark
   background_color: '#203028'
   background_image:
-    src: /assets/381143.jpg
+    src: /assets/349096.jpg
 ---
 # Who we are
 We are a group of motivated students concerned about the current state of science funding. Particularly, those endeavours that aim to resolve the fundamental questions that humanity has held since humanity has been intelligent. It is our species' consideration of these questions that sets us apart from other organisms, makes us intelligent beings.
