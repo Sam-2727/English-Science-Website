@@ -20,4 +20,4 @@ We recognize that there are many competing theories out there attempting to adva
 To alleviate this gap in empirical knowledge is a role only the government, serving as the representative of the citizen in a democratic state. We therefore must encourage the government to follow suit with our belief that a fundamental understanding. We actively reach out to government officials, urging them to invest money in this critical field. To do so, we provide evidence that these fields aren't just useful to invest in for the pursuit of human amusement. There are real, practical applications to the pursuit of a more fundamental understanding of the universe, which we present.
 
 ## How you can help
-You can [Take action now](http://scienceisthefuture.org/takeactionnow/)
+You can [take action now](http://scienceisthefuture.org/takeactionnow/).
